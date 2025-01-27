@@ -1,0 +1,16 @@
+.header{
+   height: 12.19vh;
+   width: 100vw;
+   display: flex;
+   justify-content: space-around;
+}
+
+.header-tab{
+   margin-top: 2.145vh;
+   font-size: 0.7rem;
+}
+
+img{
+   width: 33.455vw;
+   height: 72.74vh;
+}
